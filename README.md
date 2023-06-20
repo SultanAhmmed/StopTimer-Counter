@@ -1,1 +1,6 @@
 # StopTimer-Counter
+
+I have been created this Timer and Click Counter in  my university First year;
+It was my first time create such a project...
+INSHA-ALLAH I will try to learn such interesting project...
+Note:  This Project wasn't Created by me totally,,,, I learn it From youtube..... :)
